@@ -1,6 +1,7 @@
 # Colab 上运行 DeepSeek_R1
 https://colab.research.google.com/drive/1fLWACoAnOeD1aMY8S6z9K8HK_8RAyEAB#scrollTo=R__jZhLwg6Mh
 https://myapollo.com.tw/blog/google-colab-ollama/
+https://blog.csdn.net/gitblog_00117/article/details/142275832
 ## 用 colab-xterm 在 Google Colab 上安裝 Ollama
 ```
 !pip install colab-xterm
