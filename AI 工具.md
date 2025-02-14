@@ -5,4 +5,4 @@ https://raphael.app/zh
 ## Audio Transcription
 https://podcast.zeabur.app/
 ## 算法演示
-https://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html
+https://staying.fun/zh
